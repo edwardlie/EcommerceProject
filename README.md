@@ -4,6 +4,7 @@
 To run:
 Option 1: 
 1) Start as Java application in IDE
+
 Option 2:
 1) Run Docker container in IDE terminal (Right click project name, Show in Local Terminal - Git Bash) - 
 2) Using image already created by docker build), run: docker run -p 8080:8080 docker-shop.
