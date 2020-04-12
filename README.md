@@ -20,6 +20,7 @@ To stop container:
 docker stop id-of-container
 
 To build image:
-1) Make sure your .jar is build, to do so, do a mvn clean install
+1) Make sure your .jar is built, to do so, do a mvn clean install 
+THEN
 docker build -t docker-shop . (the period means current directory so make sure you are in the right directory)
 
